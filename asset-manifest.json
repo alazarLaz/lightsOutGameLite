@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lightsOutGameLite/static/css/main.58825608.css",
+    "main.js": "/lightsOutGameLite/static/js/main.b9b3189a.js",
+    "static/js/787.e682d2aa.chunk.js": "/lightsOutGameLite/static/js/787.e682d2aa.chunk.js",
+    "index.html": "/lightsOutGameLite/index.html",
+    "main.58825608.css.map": "/lightsOutGameLite/static/css/main.58825608.css.map",
+    "main.b9b3189a.js.map": "/lightsOutGameLite/static/js/main.b9b3189a.js.map",
+    "787.e682d2aa.chunk.js.map": "/lightsOutGameLite/static/js/787.e682d2aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58825608.css",
+    "static/js/main.b9b3189a.js"
+  ]
+}
